@@ -84,9 +84,9 @@ def student_records(students, pass_mark=40):
 # Example student data
 students = {
     "Shahriyar": [72, 68, 81, 59],
-    "Ali": [45, 38, 52, 61],
-    "Sara": [85, 91, 78, 88],
-    "Omar": [],
+    "Nuh": [45, 38, 52, 61],
+    "Yeah": [85, 91, 78, 88],
+    "Thushan": [],
 }
 
 result = student_records(students)
